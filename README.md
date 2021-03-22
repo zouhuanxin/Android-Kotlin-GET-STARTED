@@ -10,6 +10,7 @@ Kotlin的Google开发文档
 * Learning Android and Kotlin from scrath
 * Android Basics in Kotlin
 * Learn the Kotlin language
+* Use common Kotlin patterns with Android
 * 待续...
 
 > 这会帮助到国内无法浏览google的开发者
