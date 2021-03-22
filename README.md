@@ -2,6 +2,7 @@
 android-kotlin-google官方文档
 
 Kotlin的Google开发文档
+
 [google-kotlin-getstarted地址](https://developer.android.com/kotlin/common-patterns)
 
 目前已经翻译完成：
