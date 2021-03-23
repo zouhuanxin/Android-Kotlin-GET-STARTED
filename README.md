@@ -10,6 +10,13 @@ Kotlin的Google开发文档
 * Learning Android and Kotlin from scrath
 * Android Basics in Kotlin
 * Learn the Kotlin language
+  * Variable declaration
+    * Type inference
+    * Null safety
+  * Conditionals
+  * Functions
+  * Classes
+  * Interoperability
 * Use common Kotlin patterns with Android
 * 待续...
 
