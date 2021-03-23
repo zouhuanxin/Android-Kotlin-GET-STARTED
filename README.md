@@ -14,8 +14,13 @@ Kotlin的Google开发文档
     * Type inference
     * Null safety
   * Conditionals
+    * Simplifying function declarations
+    * Anonymous functions
+    * Higher-order functions
   * Functions
   * Classes
+    * Properties
+    * Class functions and encapsulation
   * Interoperability
 * Use common Kotlin patterns with Android
 * 待续...
