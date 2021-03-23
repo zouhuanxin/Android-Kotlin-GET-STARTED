@@ -23,6 +23,15 @@ Kotlin的Google开发文档
     * Class functions and encapsulation
   * Interoperability
 * Use common Kotlin patterns with Android
+  * Work with fragments
+    * Inheritance
+    * Nullability and initialization
+    * SAM conversion
+    * Companion objects
+    * Property delegation
+  * Nullability
+    * Interoperability
+    * Property initialization
 * 待续...
 
 > 这会帮助到国内无法浏览google的开发者
